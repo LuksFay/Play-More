@@ -11,6 +11,10 @@ El diseño de la marca para el negocio esta basado en lo efectivo y rapido que d
 Nuestro cliente se dedica a vender sus productos (Arcades y mesas de juego) y ofrecer servicio técnico y logistico a locales y particulares, proceso que realiza a traves de chat y prefiere mantenerlo de esta manera para manejar los precios dependiendo de la ocasión.
 De esta manera decidimos crear un sitio web informativo sobre los productos que lleven al consumidor a realizar la compra ya sea por chat en Whatsapp o Messenger de Facebook. El sitio entonces esta enfocado principalmente a PC y dispositivos móviles.
 
+
+![WEB PREVIEW] (https://giphy.com/gifs/79NIyfLLK6r0ofSVVd)
+
+
 ## Paleta de Colores
 
 | Color             | Hex                                                                |
