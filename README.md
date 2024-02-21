@@ -12,7 +12,7 @@ Nuestro cliente se dedica a vender sus productos (Arcades y mesas de juego) y of
 De esta manera decidimos crear un sitio web informativo sobre los productos que lleven al consumidor a realizar la compra ya sea por chat en Whatsapp o Messenger de Facebook. El sitio entonces esta enfocado principalmente a PC y dispositivos móviles.
 
 
-![WEB PREVIEW] (https://giphy.com/gifs/79NIyfLLK6r0ofSVVd)
+![WEB PREVIEW](https://giphy.com/gifs/79NIyfLLK6r0ofSVVd)
 
 
 ## Paleta de Colores
